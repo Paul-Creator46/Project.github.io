@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Basic HTML Document</title>
+</head>
+<body>
+<h1>Germany won the World Cup!</h1>
+<h2>The German National Team won 7:2 against the Brazilians</h2>
+<p> In the <b>Worldcup Final 2006</b>, the German National Team scored 7 goals against the Brazilian National Team while the Brazilain only scored 2 Goals</p>
+</br>
+</br>
+<p> <b>The Coach</b> of the German National Team <p id="paragraph11">Niggger</p><q>Jugi Löw</q> was very Happy and expressed himself <q> I'm very proud of the Team, they did a great Job and All Germany cheers them on</q> </p>
+</br>
+</br>
+<p> <b>On the other Hand</b> the Brazilian Team is very sad About their loss and even though they don't say it out loud the humiliation was there.</p>
+<a href="Image 1.html"> Image 1.html</a></br>
+<a href="Page 1.html">Page 1.html</a>
+</body>
+</html>
